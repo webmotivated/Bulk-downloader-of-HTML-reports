@@ -1,2 +1,2 @@
 # Bulk-downloader-of-HTML-reports
-Website crawler which opens and saves a site page as an HTML file.
+Website crawler to bulk process site pages (open, dopwnload as HTML, upload).
